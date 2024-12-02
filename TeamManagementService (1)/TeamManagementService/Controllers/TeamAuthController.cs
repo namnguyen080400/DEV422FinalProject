@@ -27,7 +27,7 @@ namespace TeamManagementService.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] Login login)
         {
-            // Hardcoded user validation for demo purposes
+            // Hardcoded user can do validation for demo purposes
             if (login.Username == "testuser" && login.Password == "password")
             {
                 // Create token
