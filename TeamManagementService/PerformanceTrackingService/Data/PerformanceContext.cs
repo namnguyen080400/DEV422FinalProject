@@ -19,7 +19,7 @@ namespace PerformanceTrackingService.Data
                     GamesPlayed = 0,
                     TotalScore = 0,
                     Wins = 0,
-                    Losses = 0,
+                    Losses = 0
     },
                  new Performance
                  {
@@ -28,7 +28,7 @@ namespace PerformanceTrackingService.Data
                      GamesPlayed = 0,
                      TotalScore = 0,
                      Wins = 0,
-                     Losses = 0,
+                     Losses = 0
                  },
                   new Performance
                   {
@@ -37,7 +37,7 @@ namespace PerformanceTrackingService.Data
                       GamesPlayed = 0,
                       TotalScore = 0,
                       Wins = 0,
-                      Losses = 0,
+                      Losses = 0
                   }
 
                 );

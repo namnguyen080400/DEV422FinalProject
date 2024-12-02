@@ -1,45 +1,22 @@
-//var builder = WebApplication.CreateBuilder(args);
-
-//// Add services to the container.
-//builder.Services.AddCors(options =>
-//{
-//    options.AddPolicy("AllowAll", builder =>
-//    {
-//        builder.AllowAnyOrigin()
-//               .AllowAnyMethod()
-//               .AllowAnyHeader();
-//    });
-//});
-
-//// Add Swagger services
-//builder.Services.AddEndpointsApiExplorer();
-//builder.Services.AddSwaggerGen();
-
-//builder.Services.AddControllers();
-
-//var app = builder.Build();
-
-//// Enable Swagger only in development
-//if (app.Environment.IsDevelopment())
-//{
-//    app.UseSwagger();
-//    app.UseSwaggerUI();
-//}
-
-//app.UseRouting();
-//app.UseCors("AllowAll");
-
-//app.MapControllers();
-
-//app.Run();
 
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
+using Microsoft.EntityFrameworkCore;
+using PerformanceTrackingService.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.AddDbContext<PerformanceContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.ConfigureWarnings(warnings =>
+        warnings.Ignore(Microsoft.EntityFrameworkCore.Diagnostics.RelationalEventId.PendingModelChangesWarning));
+}
+);
+
+
 builder.Services.AddControllers();
 
 // Add CORS (optional, if needed in your project).
@@ -93,5 +70,11 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<PerformanceContext>();
+    db.Database.Migrate();
+}
 
 app.Run();
