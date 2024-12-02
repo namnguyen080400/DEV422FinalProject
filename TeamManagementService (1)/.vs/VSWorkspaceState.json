@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PerformanceTrackingService",
+    "\\TeamManagementService",
+    "\\TeamManagementService\\Controllers"
+  ],
+  "SelectedNode": "\\TeamManagementService\\Controllers\\TeamAuthController.cs",
+  "PreviewInSolutionExplorer": false
+}
