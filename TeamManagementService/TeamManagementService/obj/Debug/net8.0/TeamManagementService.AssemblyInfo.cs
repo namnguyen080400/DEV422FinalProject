@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamManagementService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f968c06d4692092d16e28a1ce8997e53c9f90952")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98d60bc5d518db473d8900e133f33d9f65115645")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("TeamManagementService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamManagementService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
