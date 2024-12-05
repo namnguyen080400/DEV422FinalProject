@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-    "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj",
-        "projectName": "PerformanceTrackingService",
-        "projectPath": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj",
-        "packagesPath": "C:\\Users\\mguy0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\obj\\",
-=======
     "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj": {}
   },
   "projects": {
@@ -25,18 +12,9 @@
         "projectPath": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\PerformanceTrackingService.csproj",
         "packagesPath": "C:\\Users\\namnn\\.nuget\\packages\\",
         "outputPath": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\obj\\",
->>>>>>> Stashed changes
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-<<<<<<< Updated upstream
-          "C:\\Users\\mguy0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
           "C:\\Users\\namnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> Stashed changes
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,11 +97,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< Updated upstream
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
->>>>>>> Stashed changes
         }
       }
     }

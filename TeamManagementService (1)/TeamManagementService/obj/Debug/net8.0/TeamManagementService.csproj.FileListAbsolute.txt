@@ -505,3 +505,4 @@ C:\tmp\Nam's bellevue college work\DEV 422 Application Archtiecture\Final projec
 C:\tmp\Nam's bellevue college work\DEV 422 Application Archtiecture\Final project\DEV422FinalProject\TeamManagementService (1)\TeamManagementService\obj\Debug\net8.0\TeamManagementService.pdb
 C:\tmp\Nam's bellevue college work\DEV 422 Application Archtiecture\Final project\DEV422FinalProject\TeamManagementService (1)\TeamManagementService\obj\Debug\net8.0\TeamManagementService.genruntimeconfig.cache
 C:\tmp\Nam's bellevue college work\DEV 422 Application Archtiecture\Final project\DEV422FinalProject\TeamManagementService (1)\TeamManagementService\obj\Debug\net8.0\ref\TeamManagementService.dll
+C:\tmp\Nam's bellevue college work\DEV 422 Application Archtiecture\Final project\DEV422FinalProject\TeamManagementService (1)\TeamManagementService\bin\Debug\net8.0\TeamManagementService.staticwebassets.runtime.json

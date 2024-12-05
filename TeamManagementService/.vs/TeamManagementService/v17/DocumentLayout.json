@@ -1,45 +1,22 @@
 {
   "Version": 1,
-<<<<<<< Updated upstream
-  "WorkspaceRootPath": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\users\\mguy0\\422final\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\users\\mguy0\\422final\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\users\\mguy0\\422final\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\users\\mguy0\\422final\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\data\\performancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
   "WorkspaceRootPath": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Controllers\\PerformanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Data\\PerformanceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\data\\performancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\data\\performancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|c:\\users\\mguy0\\422final\\dev422finalproject\\teammanagementservice\\performancetrackingservice\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1769A1DC-D89D-42A9-844E-E6121FB1308A}|PerformanceTrackingService\\PerformanceTrackingService.csproj|solutionrelative:performancetrackingservice\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,23 +26,6 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "PerformanceTrackingService\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-=======
           "SelectedChildIndex": 12,
           "Children": [
             {
@@ -110,34 +70,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
               "RelativeDocumentMoniker": "PerformanceTrackingService\\Program.cs",
               "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
               "RelativeToolTip": "PerformanceTrackingService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
->>>>>>> Stashed changes
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:47:55.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-<<<<<<< Updated upstream
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
-              "RelativeDocumentMoniker": "PerformanceTrackingService\\Program.cs",
-              "ToolTip": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
-              "RelativeToolTip": "PerformanceTrackingService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
-=======
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
               "RelativeToolTip": "PerformanceTrackingService\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-02T06:47:49.977Z"
             },
@@ -149,55 +100,23 @@
               "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
               "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs",
               "RelativeToolTip": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
->>>>>>> Stashed changes
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T06:47:55.488Z"
+              "WhenOpened": "2024-12-02T05:38:02.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\appsettings.json",
-              "RelativeDocumentMoniker": "PerformanceTrackingService\\appsettings.json",
-              "ToolTip": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\appsettings.json",
-              "RelativeToolTip": "PerformanceTrackingService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T06:59:58.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PerformanceContext.cs",
-<<<<<<< Updated upstream
-              "DocumentMoniker": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
-              "RelativeDocumentMoniker": "PerformanceTrackingService\\Data\\PerformanceContext.cs",
-              "ToolTip": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
-=======
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
               "RelativeDocumentMoniker": "PerformanceTrackingService\\Data\\PerformanceContext.cs",
               "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
->>>>>>> Stashed changes
               "RelativeToolTip": "PerformanceTrackingService\\Data\\PerformanceContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T04:58:06.271Z"
-<<<<<<< Updated upstream
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PerformanceController.cs",
-              "DocumentMoniker": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs",
-              "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
-              "ToolTip": "C:\\Users\\mguy0\\422Final\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs",
-              "RelativeToolTip": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T05:38:02.254Z"
-=======
->>>>>>> Stashed changes
+              "WhenOpened": "2024-12-02T04:58:06.271Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -19,17 +19,20 @@ namespace TeamManagementService.Data
                 new Team
                 {
                     TeamId = 1,
-                    TeamName = "Optic"
+                    TeamName = "Optic",
+                    NumberOfTeam = 5
                 },
                 new Team
                 {
                     TeamId = 2,
-                    TeamName = "Cloud9"
+                    TeamName = "Cloud9",
+                    NumberOfTeam = 8
                 },
                 new Team
                 {
                     TeamId = 3,
-                    TeamName = "Faze"
+                    TeamName = "Faze",
+                    NumberOfTeam = 3
                 }
             );
         }
