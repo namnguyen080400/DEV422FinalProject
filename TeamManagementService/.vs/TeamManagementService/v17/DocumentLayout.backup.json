@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\",
+  "WorkspaceRootPath": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\teammanagementservice\\teammanagementservice\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Data\\PerformanceContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\teammanagementservice\\teammanagementservice\\data\\teamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\data\\teamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Controllers\\PerformanceController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\teammanagementservice\\teammanagementservice\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\model\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\teammanagementservice\\teammanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PerformanceTrackingService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -72,51 +72,51 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Program.cs",
-              "RelativeDocumentMoniker": "TeamManagementService\\Program.cs",
-              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Program.cs",
-              "RelativeToolTip": "TeamManagementService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackingService\\Program.cs",
+              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Program.cs",
+              "RelativeToolTip": "PerformanceTrackingService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T05:28:06.973Z"
+              "WhenOpened": "2024-12-02T06:47:55.488Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Team.cs",
-              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Model\\Team.cs",
-              "RelativeDocumentMoniker": "TeamManagementService\\Model\\Team.cs",
-              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Model\\Team.cs",
-              "RelativeToolTip": "TeamManagementService\\Model\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PerformanceTrackingService\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:55:43.682Z",
+              "WhenOpened": "2024-12-02T06:47:49.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeamContext.cs",
-              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Data\\TeamContext.cs",
-              "RelativeDocumentMoniker": "TeamManagementService\\Data\\TeamContext.cs",
-              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Data\\TeamContext.cs",
-              "RelativeToolTip": "TeamManagementService\\Data\\TeamContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAfAAAAAAAAAA==",
+              "Title": "PerformanceController.cs",
+              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
+              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Controllers\\PerformanceController.cs",
+              "RelativeToolTip": "PerformanceTrackingService\\Controllers\\PerformanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:54:20.464Z",
+              "WhenOpened": "2024-12-02T05:38:02.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TeamController.cs",
-              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Controllers\\TeamController.cs",
-              "RelativeDocumentMoniker": "TeamManagementService\\Controllers\\TeamController.cs",
-              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\TeamManagementService\\TeamManagementService\\Controllers\\TeamController.cs",
-              "RelativeToolTip": "TeamManagementService\\Controllers\\TeamController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwD4AAAAJAAAAAAAAAA==",
+              "Title": "PerformanceContext.cs",
+              "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
+              "RelativeDocumentMoniker": "PerformanceTrackingService\\Data\\PerformanceContext.cs",
+              "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService\\PerformanceTrackingService\\Data\\PerformanceContext.cs",
+              "RelativeToolTip": "PerformanceTrackingService\\Data\\PerformanceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:37:49.911Z",
+              "WhenOpened": "2024-12-02T04:58:06.271Z",
               "EditorCaption": ""
             }
           ]

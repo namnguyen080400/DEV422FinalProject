@@ -1,11 +1,39 @@
 {
   "Version": 1,
-  "Hash": "KbDkvirz4Qg8lqtVb6eP2bLlZ+gaWKEIFK08496LShc=",
+  "Hash": "BvQep9nL5b9KXlkaouRjDwMS/yvk4bcVLnG1oyIHMOA=",
   "Source": "TeamManagementService",
   "BasePath": "_content/TeamManagementService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TeamManagementService\\wwwroot",
+      "Source": "TeamManagementService",
+      "ContentRoot": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\wwwroot\\",
+      "BasePath": "_content/TeamManagementService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\wwwroot\\index.html",
+      "SourceId": "TeamManagementService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\wwwroot\\",
+      "BasePath": "_content/TeamManagementService",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }

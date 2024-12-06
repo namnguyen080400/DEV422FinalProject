@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerformanceTrackingService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea3e36e272cbf0cb04a52a16f340d0481b007bab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1d37bbef38935662f0d8fab79538ebb91807b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerformanceTrackingService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerformanceTrackingService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

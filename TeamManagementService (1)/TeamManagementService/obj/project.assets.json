@@ -4883,19 +4883,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nikaw\\.nuget\\packages\\": {}
+    "C:\\Users\\namnn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\422Final\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\TeamManagementService.csproj",
+      "projectUniqueName": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\TeamManagementService.csproj",
       "projectName": "TeamManagementService",
-      "projectPath": "C:\\422Final\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\TeamManagementService.csproj",
-      "packagesPath": "C:\\Users\\Nikaw\\.nuget\\packages\\",
-      "outputPath": "C:\\422Final\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\obj\\",
+      "projectPath": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\TeamManagementService.csproj",
+      "packagesPath": "C:\\Users\\namnn\\.nuget\\packages\\",
+      "outputPath": "C:\\tmp\\Nam's bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nikaw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\namnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4978,7 +4978,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

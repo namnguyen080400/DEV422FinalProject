@@ -5,6 +5,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
+using TeamManagementService.Data;
 using TeamManagementService.Model;
 
 namespace TeamManagementService.Controllers
@@ -14,15 +15,16 @@ namespace TeamManagementService.Controllers
     public class TeamAuthController : ControllerBase
     {
         private readonly string _secretKey;
-        private readonly List<Login> users = new List<Login>();
+        private readonly TeamContext context;
         private static readonly List<Team> teams = new List<Team>();
+        private static readonly List<UpdateTeam> updateTeams = new List<UpdateTeam>();
         private static int CurrentTeamId = 0;
-        
+
         public TeamAuthController(IConfiguration configuration)
         {
             _secretKey = configuration["Jwt:SecretKey"];
+            this.context = context;
         }
-
 
         [HttpPost("login")]
         public IActionResult Login([FromBody] Login login)
@@ -54,7 +56,6 @@ namespace TeamManagementService.Controllers
         [HttpPost("createTeam")]
         public IActionResult CreateTeam([FromBody] Team team)
         {
-           
             // check to make sure user required to enter team name
             if (string.IsNullOrEmpty(team.TeamName))
             {
@@ -65,7 +66,8 @@ namespace TeamManagementService.Controllers
             {
                 return BadRequest("Team already exist");
             }
-            team.TeamId = CurrentTeamId;
+            else
+                team.TeamId = CurrentTeamId;
             CurrentTeamId++;
             teams.Add(team);
             return Ok("Sucessfully create a team");
@@ -73,7 +75,7 @@ namespace TeamManagementService.Controllers
 
         // update team
         [HttpPost("UpdateTeam")]
-        public IActionResult UpdateTeam([FromBody] Team updateTeam)
+        public IActionResult UpdateTeam([FromBody] UpdateTeam updateTeam)
         {
             // check if team id match
             var team = teams.Find(x => x.TeamId == updateTeam.TeamId);
@@ -83,11 +85,22 @@ namespace TeamManagementService.Controllers
             }
             else // team id match
             {
-                team.TeamName = updateTeam.TeamName;
+                team.NumberOfTeam = updateTeam.NumberOfTeam;
                 return Ok("Team has been updated");
             }
         }
 
-        
+        // retrive team based on team id
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Team>> Get(int id)
+        {
+            var team = await context.Teams.FindAsync(id);
+            //validation to see if the team exist
+            if (team == null)
+            {
+                return NotFound();
+            }
+            return team;
+        }
     }
 }
