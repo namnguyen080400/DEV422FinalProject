@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Migrations\\20241205014916_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TeamManagementService\\Migrations\\20241205014916_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\controllers\\teamauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|c:\\tmp\\nam\u0027s bellevue college work\\dev 422 application archtiecture\\final project\\dev422finalproject\\teammanagementservice (1)\\teammanagementservice\\migrations\\20241205014916_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520BF602-80C7-430F-8305-048B772BC3AE}|TeamManagementService\\TeamManagementService.csproj|solutionrelative:teammanagementservice\\migrations\\20241205014916_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\appsettings.json",
               "RelativeDocumentMoniker": "TeamManagementService\\appsettings.json",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "20241205014916_InitialCreate.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Migrations\\20241205014916_InitialCreate.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Migrations\\20241205014916_InitialCreate.cs",
@@ -119,25 +119,24 @@
               "RelativeToolTip": "TeamManagementService\\Migrations\\20241205014916_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T01:49:16.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T01:49:16.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Program.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Program.cs",
               "ToolTip": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Program.cs",
               "RelativeToolTip": "TeamManagementService\\Program.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAcwJ0AAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwJUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T05:08:51.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "index.html",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "TeamManagementService\\wwwroot\\index.html",
@@ -149,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "TeamContext.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Data\\TeamContext.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Data\\TeamContext.cs",
@@ -161,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "TeamManagementService\\appsettings.Development.json",
@@ -173,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UpdateTeam.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Model\\UpdateTeam.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Model\\UpdateTeam.cs",
@@ -185,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Team.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Model\\Team.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Model\\Team.cs",
@@ -197,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Model\\Login.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Model\\Login.cs",
@@ -209,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TeamAuthController.cs",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Controllers\\TeamAuthController.cs",
               "RelativeDocumentMoniker": "TeamManagementService\\Controllers\\TeamAuthController.cs",
@@ -217,12 +216,11 @@
               "RelativeToolTip": "TeamManagementService\\Controllers\\TeamAuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T22:37:49.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T22:37:49.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\tmp\\Nam\u0027s bellevue college work\\DEV 422 Application Archtiecture\\Final project\\DEV422FinalProject\\TeamManagementService (1)\\TeamManagementService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TeamManagementService\\Properties\\launchSettings.json",
