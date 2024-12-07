@@ -1,65 +1,52 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using PerformanceTrackingService.Data;
 using PerformanceTrackingService.Model;
 
 namespace PerformanceTrackingService.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PerformanceController : ControllerBase
     {
-        private readonly AppDbContext _context;
-
-        public PerformanceController(AppDbContext context)
+        private readonly PerformanceContext context;
+        public PerformanceController(PerformanceContext performanceContext)
         {
-            _context = context;
+            context = performanceContext;
         }
-
-        [HttpPost]
-        public async Task<IActionResult> AddOrUpdatePerformance([FromBody] PerformanceStat performanceStat)
+        [HttpPost("play")]
+        public async Task<IActionResult> Play(int playerId)
         {
-            var existingStat = await _context.PerformanceStats
-                .FirstOrDefaultAsync(x => x.PlayerId == performanceStat.PlayerId);
-
-            if (existingStat != null)
+            var perform = await context.Performances.FirstOrDefaultAsync(p => p.PlayerId == playerId);
+            int scorePoints =new Random().Next(0, 100);
+            if (scorePoints > 51)
             {
-                existingStat.PointsScored += performanceStat.PointsScored;
-                existingStat.Assists += performanceStat.Assists;
-                existingStat.Rebounds += performanceStat.Rebounds;
-                existingStat.GamesPlayed += 1;
-                existingStat.LastUpdated = DateTime.UtcNow;
+                perform.Wins++;
             }
             else
             {
-                _context.PerformanceStats.Add(performanceStat);
+                perform.Losses++;
             }
 
-            await _context.SaveChangesAsync();
-            return Ok("Performance stats updated successfully.");
+            perform.TotalScore=perform.Wins-perform.Losses;
+            perform.GamesPlayed++;
+            context.SaveChanges();
+            return Ok(perform);
         }
-
-        [HttpGet("{playerId}")]
-        public async Task<ActionResult<PerformanceStat>> GetPerformance(int playerId)
+        [HttpGet("getAll")]
+        public async Task<IActionResult> GetAll()
         {
-            var performanceStat = await _context.PerformanceStats.FirstOrDefaultAsync(x => x.PlayerId == playerId);
-            if (performanceStat == null)
-            {
+            return Ok(await context.Performances.ToListAsync());
+        }
+        [HttpGet("status")]
+        public async Task<IActionResult> GetStatus(int playerId) 
+        {
+            var perform = await context.Performances.FirstOrDefaultAsync(p => p.PlayerId == playerId);
+            if (perform == null)
                 return NotFound();
-            }
-            return performanceStat;
-        }
-
-        [HttpGet("team/{teamId}")]
-        public async Task<ActionResult<IEnumerable<PerformanceStat>>> GetTeamPerformance(int teamId)
-        {
-            return await _context.PerformanceStats.Where(x => x.TeamId == teamId).ToListAsync();
-        }
-
-        [HttpGet("all")]
-        public async Task<ActionResult<IEnumerable<PerformanceStat>>> GetAllPerformanceStats()
-        {
-            return await _context.PerformanceStats.ToListAsync();
+            return Ok(perform);
         }
     }
 }
