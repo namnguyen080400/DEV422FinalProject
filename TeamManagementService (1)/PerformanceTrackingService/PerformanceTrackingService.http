@@ -1,4 +1,4 @@
-@PerformanceTrackingService_HostAddress = http://localhost:5165
+@PerformanceTrackingService_HostAddress = http://localhost:5246
 
 GET {{PerformanceTrackingService_HostAddress}}/weatherforecast/
 Accept: application/json
